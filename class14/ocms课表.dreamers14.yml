@@ -94,15 +94,9 @@ schedules:
   - subject: 英语
     start_time: 15:17:00
     end_time: 16:00:00
-  - subject: 每周一歌
-    start_time: 16:07:00
-    end_time: 16:17:00
   - subject: 化学
     start_time: 16:17:00
     end_time: 17:00:00
-  - subject: ''
-    start_time: 17:05:00
-    end_time: 17:45:00
   - subject: 历史
     start_time: 18:40:00
     end_time: 18:57:00
@@ -146,15 +140,9 @@ schedules:
   - subject: 英语
     start_time: 15:17:00
     end_time: 16:00:00
-  - subject: 每周一歌
-    start_time: 16:07:00
-    end_time: 16:17:00
   - subject: 化学
     start_time: 16:17:00
     end_time: 17:00:00
-  - subject: ''
-    start_time: 17:05:00
-    end_time: 17:45:00
   - subject: 历史
     start_time: 18:40:00
     end_time: 18:57:00
@@ -284,15 +272,9 @@ schedules:
   - subject: 物理
     start_time: 15:17:00
     end_time: 16:00:00
-  - subject: 每周一歌
-    start_time: 16:07:00
-    end_time: 16:17:00
   - subject: 英语
     start_time: 16:17:00
     end_time: 17:00:00
-  - subject: 体育
-    start_time: 17:05:00
-    end_time: 17:45:00
   - subject: 道法
     start_time: 18:40:00
     end_time: 18:57:00
@@ -336,15 +318,9 @@ schedules:
   - subject: 语文
     start_time: 15:17:00
     end_time: 16:00:00
-  - subject: 每周一歌
-    start_time: 16:07:00
-    end_time: 16:17:00
   - subject: 道法
     start_time: 16:17:00
     end_time: 17:00:00
-  - subject: ''
-    start_time: 17:05:00
-    end_time: 17:45:00
   - subject: 语文
     start_time: 18:40:00
     end_time: 18:57:00
@@ -388,15 +364,9 @@ schedules:
   - subject: 语文
     start_time: 15:17:00
     end_time: 16:00:00
-  - subject: 每周一歌
-    start_time: 16:07:00
-    end_time: 16:17:00
   - subject: 道法
     start_time: 16:17:00
     end_time: 17:00:00
-  - subject: ''
-    start_time: 17:05:00
-    end_time: 17:45:00
   - subject: 语文
     start_time: 18:40:00
     end_time: 18:57:00
@@ -440,15 +410,9 @@ schedules:
   - subject: 英语
     start_time: 15:17:00
     end_time: 16:00:00
-  - subject: 每周一歌
-    start_time: 16:07:00
-    end_time: 16:17:00
   - subject: 化学
     start_time: 16:17:00
     end_time: 17:00:00
-  - subject: ''
-    start_time: 17:05:00
-    end_time: 17:45:00
   - subject: 英语
     start_time: 18:40:00
     end_time: 18:57:00
